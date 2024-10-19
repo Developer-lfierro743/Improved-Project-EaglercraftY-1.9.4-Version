@@ -1,4 +1,4 @@
-# Welcome to Improved-Project-EaglecraftY V0.0 (Pre-Development)!**
+# Welcome to Improved-Project-EaglecraftY V0.0 (Pre-Development)!
 ===========================================================
 
 **What is it?**
